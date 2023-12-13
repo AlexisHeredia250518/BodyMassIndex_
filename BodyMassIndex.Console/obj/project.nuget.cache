@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wRc4QWQYWMA7upH5qd3IHy0VwAG905KjAgLJH8zLaxnU7HB8Ew7Y/qs5n4AB1rPrtyzjEbP9xdFY0BWsvAdTkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hered\\Downloads\\Curso C#\\BodyMassIndex_\\BodyMassIndex.Console\\BodyMassIndex.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hered\\.nuget\\packages\\bodymassindex.models\\1.0.0\\bodymassindex.models.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

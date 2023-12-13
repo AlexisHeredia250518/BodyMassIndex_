@@ -1,0 +1,11 @@
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex_\BodyMassIndex.Models\bin\Release\net6.0\BodyMassIndex.Models.deps.json
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex_\BodyMassIndex.Models\bin\Release\net6.0\BodyMassIndex.Models.dll
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex_\BodyMassIndex.Models\bin\Release\net6.0\BodyMassIndex.Models.pdb
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex_\BodyMassIndex.Models\obj\Release\net6.0\BodyMassIndex.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex_\BodyMassIndex.Models\obj\Release\net6.0\BodyMassIndex.Models.AssemblyInfoInputs.cache
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex_\BodyMassIndex.Models\obj\Release\net6.0\BodyMassIndex.Models.AssemblyInfo.cs
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex_\BodyMassIndex.Models\obj\Release\net6.0\BodyMassIndex.Models.csproj.CoreCompileInputs.cache
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex_\BodyMassIndex.Models\obj\Release\net6.0\BodyMassIndex.Models.dll
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex_\BodyMassIndex.Models\obj\Release\net6.0\refint\BodyMassIndex.Models.dll
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex_\BodyMassIndex.Models\obj\Release\net6.0\BodyMassIndex.Models.pdb
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex_\BodyMassIndex.Models\obj\Release\net6.0\ref\BodyMassIndex.Models.dll
